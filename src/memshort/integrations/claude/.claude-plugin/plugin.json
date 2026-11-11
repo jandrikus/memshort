@@ -1,0 +1,7 @@
+{
+  "name": "memshort",
+  "version": "0.1.0",
+  "description": "Observational session compaction",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

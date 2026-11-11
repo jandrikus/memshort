@@ -1,0 +1,13 @@
+{
+  "name": "memshort",
+  "description": "Observational compaction for agent sessions",
+  "owner": {"name": "memshort"},
+  "plugins": [
+    {
+      "name": "memshort",
+      "description": "Observational compaction for Claude Code",
+      "version": "0.1.0",
+      "source": "./claude"
+    }
+  ]
+}

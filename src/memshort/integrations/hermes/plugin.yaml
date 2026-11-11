@@ -1,0 +1,5 @@
+name: memshort
+version: 0.1.0
+description: "Observational compaction for Hermes: older turns become a dated memshort observation log, the newest turns stay raw, and background observations keep the next compaction small."
+author: memshort
+requires_hermes: ">=0.22"
